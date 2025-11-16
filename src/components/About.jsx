@@ -1,4 +1,5 @@
 import { GraduationCap } from 'lucide-react';
+import MyImage from '../assets/profile3.png'
 
 export default function About() {
   return (
@@ -10,6 +11,8 @@ export default function About() {
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
+            <div className="blob-morph bg-gradient-to-r from-cyan-400/20 to-blue-400/30  w-[90%] md:w-120 h-80 ">
+              <img className="w-[98%] h-[98%] object-cover filter brightness-[.8] hue-rotate-180 opacity-100 saturate-[1.2]" src={MyImage} alt="" /></div>
             <p className="text-lg text-slate-300 leading-relaxed">
               Highly proficient Frontend Developer experienced in building clean, scalable, optimized and
               result-driven web applications with HTML, CSS and JavaScript.
