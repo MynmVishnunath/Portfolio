@@ -1,6 +1,6 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 790" style="background:none;border-radius:50%" width="790" height="790">
 	<style>
-		.s0 { fill: #9c3838 } 
+		.s0 { fill: oklch(78.9% 0.154 211.53)} 
 		.s1 { fill: #050503 } 
 		.s2 { fill: #040402 } 
 		.s3 { opacity: 1;fill: #9b3737 } 
